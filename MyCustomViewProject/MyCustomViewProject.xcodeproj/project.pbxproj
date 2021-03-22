@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D32D6EFC2603A1470040A792 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32D6EFB2603A1470040A792 /* AppDelegate.swift */; };
-		D32D6EFE2603A1470040A792 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32D6EFD2603A1470040A792 /* SceneDelegate.swift */; };
-		D32D6F002603A1470040A792 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32D6EFF2603A1470040A792 /* ViewController.swift */; };
-		D32D6F032603A1470040A792 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32D6F012603A1470040A792 /* Main.storyboard */; };
-		D32D6F052603A14C0040A792 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D32D6F042603A14C0040A792 /* Assets.xcassets */; };
-		D32D6F082603A14C0040A792 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32D6F062603A14C0040A792 /* LaunchScreen.storyboard */; };
-		D32D6F112603A2750040A792 /* MyCustomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D32D6F102603A2750040A792 /* MyCustomView.xib */; };
-		D32D6F142603A2B00040A792 /* MyCustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32D6F132603A2B00040A792 /* MyCustomView.swift */; };
+		D35D912626089DDB00E345BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35D912526089DDB00E345BD /* AppDelegate.swift */; };
+		D35D912826089DDB00E345BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35D912726089DDB00E345BD /* SceneDelegate.swift */; };
+		D35D912A26089DDB00E345BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35D912926089DDB00E345BD /* ViewController.swift */; };
+		D35D912D26089DDB00E345BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D35D912B26089DDB00E345BD /* Main.storyboard */; };
+		D35D912F26089DDE00E345BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D35D912E26089DDE00E345BD /* Assets.xcassets */; };
+		D35D913226089DDE00E345BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D35D913026089DDE00E345BD /* LaunchScreen.storyboard */; };
+		D35D913B26089E7E00E345BD /* MyCustomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D35D913A26089E7E00E345BD /* MyCustomView.xib */; };
+		D35D913E26089EAB00E345BD /* MyCustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35D913D26089EAB00E345BD /* MyCustomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D32D6EF82603A1470040A792 /* MyCustomViewProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCustomViewProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D32D6EFB2603A1470040A792 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D32D6EFD2603A1470040A792 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D32D6EFF2603A1470040A792 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D32D6F022603A1470040A792 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D32D6F042603A14C0040A792 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D32D6F072603A14C0040A792 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D32D6F092603A14C0040A792 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D32D6F102603A2750040A792 /* MyCustomView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCustomView.xib; sourceTree = "<group>"; };
-		D32D6F132603A2B00040A792 /* MyCustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomView.swift; sourceTree = "<group>"; };
+		D35D912226089DDB00E345BD /* MyCustomViewProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCustomViewProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D35D912526089DDB00E345BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D35D912726089DDB00E345BD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		D35D912926089DDB00E345BD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D35D912C26089DDB00E345BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D35D912E26089DDE00E345BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D35D913126089DDE00E345BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D35D913326089DDE00E345BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D35D913A26089E7E00E345BD /* MyCustomView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCustomView.xib; sourceTree = "<group>"; };
+		D35D913D26089EAB00E345BD /* MyCustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D32D6EF52603A1470040A792 /* Frameworks */ = {
+		D35D911F26089DDB00E345BD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,34 +41,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D32D6EEF2603A1470040A792 = {
+		D35D911926089DDB00E345BD = {
 			isa = PBXGroup;
 			children = (
-				D32D6EFA2603A1470040A792 /* MyCustomViewProject */,
-				D32D6EF92603A1470040A792 /* Products */,
+				D35D912426089DDB00E345BD /* MyCustomViewProject */,
+				D35D912326089DDB00E345BD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D32D6EF92603A1470040A792 /* Products */ = {
+		D35D912326089DDB00E345BD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D32D6EF82603A1470040A792 /* MyCustomViewProject.app */,
+				D35D912226089DDB00E345BD /* MyCustomViewProject.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D32D6EFA2603A1470040A792 /* MyCustomViewProject */ = {
+		D35D912426089DDB00E345BD /* MyCustomViewProject */ = {
 			isa = PBXGroup;
 			children = (
-				D32D6EFB2603A1470040A792 /* AppDelegate.swift */,
-				D32D6EFD2603A1470040A792 /* SceneDelegate.swift */,
-				D32D6EFF2603A1470040A792 /* ViewController.swift */,
-				D32D6F012603A1470040A792 /* Main.storyboard */,
-				D32D6F102603A2750040A792 /* MyCustomView.xib */,
-				D32D6F132603A2B00040A792 /* MyCustomView.swift */,
-				D32D6F042603A14C0040A792 /* Assets.xcassets */,
-				D32D6F062603A14C0040A792 /* LaunchScreen.storyboard */,
-				D32D6F092603A14C0040A792 /* Info.plist */,
+				D35D912526089DDB00E345BD /* AppDelegate.swift */,
+				D35D912726089DDB00E345BD /* SceneDelegate.swift */,
+				D35D912926089DDB00E345BD /* ViewController.swift */,
+				D35D912B26089DDB00E345BD /* Main.storyboard */,
+				D35D913A26089E7E00E345BD /* MyCustomView.xib */,
+				D35D913D26089EAB00E345BD /* MyCustomView.swift */,
+				D35D912E26089DDE00E345BD /* Assets.xcassets */,
+				D35D913026089DDE00E345BD /* LaunchScreen.storyboard */,
+				D35D913326089DDE00E345BD /* Info.plist */,
 			);
 			path = MyCustomViewProject;
 			sourceTree = "<group>";
@@ -76,13 +76,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D32D6EF72603A1470040A792 /* MyCustomViewProject */ = {
+		D35D912126089DDB00E345BD /* MyCustomViewProject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D32D6F0C2603A14C0040A792 /* Build configuration list for PBXNativeTarget "MyCustomViewProject" */;
+			buildConfigurationList = D35D913626089DDE00E345BD /* Build configuration list for PBXNativeTarget "MyCustomViewProject" */;
 			buildPhases = (
-				D32D6EF42603A1470040A792 /* Sources */,
-				D32D6EF52603A1470040A792 /* Frameworks */,
-				D32D6EF62603A1470040A792 /* Resources */,
+				D35D911E26089DDB00E345BD /* Sources */,
+				D35D911F26089DDB00E345BD /* Frameworks */,
+				D35D912026089DDB00E345BD /* Resources */,
 			);
 			buildRules = (
 			);
@@ -90,24 +90,24 @@
 			);
 			name = MyCustomViewProject;
 			productName = MyCustomViewProject;
-			productReference = D32D6EF82603A1470040A792 /* MyCustomViewProject.app */;
+			productReference = D35D912226089DDB00E345BD /* MyCustomViewProject.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D32D6EF02603A1470040A792 /* Project object */ = {
+		D35D911A26089DDB00E345BD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
-					D32D6EF72603A1470040A792 = {
+					D35D912126089DDB00E345BD = {
 						CreatedOnToolsVersion = 12.4;
 					};
 				};
 			};
-			buildConfigurationList = D32D6EF32603A1470040A792 /* Build configuration list for PBXProject "MyCustomViewProject" */;
+			buildConfigurationList = D35D911D26089DDB00E345BD /* Build configuration list for PBXProject "MyCustomViewProject" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,57 +115,57 @@
 				en,
 				Base,
 			);
-			mainGroup = D32D6EEF2603A1470040A792;
-			productRefGroup = D32D6EF92603A1470040A792 /* Products */;
+			mainGroup = D35D911926089DDB00E345BD;
+			productRefGroup = D35D912326089DDB00E345BD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D32D6EF72603A1470040A792 /* MyCustomViewProject */,
+				D35D912126089DDB00E345BD /* MyCustomViewProject */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D32D6EF62603A1470040A792 /* Resources */ = {
+		D35D912026089DDB00E345BD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D32D6F082603A14C0040A792 /* LaunchScreen.storyboard in Resources */,
-				D32D6F112603A2750040A792 /* MyCustomView.xib in Resources */,
-				D32D6F052603A14C0040A792 /* Assets.xcassets in Resources */,
-				D32D6F032603A1470040A792 /* Main.storyboard in Resources */,
+				D35D913226089DDE00E345BD /* LaunchScreen.storyboard in Resources */,
+				D35D913B26089E7E00E345BD /* MyCustomView.xib in Resources */,
+				D35D912F26089DDE00E345BD /* Assets.xcassets in Resources */,
+				D35D912D26089DDB00E345BD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D32D6EF42603A1470040A792 /* Sources */ = {
+		D35D911E26089DDB00E345BD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D32D6F002603A1470040A792 /* ViewController.swift in Sources */,
-				D32D6F142603A2B00040A792 /* MyCustomView.swift in Sources */,
-				D32D6EFC2603A1470040A792 /* AppDelegate.swift in Sources */,
-				D32D6EFE2603A1470040A792 /* SceneDelegate.swift in Sources */,
+				D35D912A26089DDB00E345BD /* ViewController.swift in Sources */,
+				D35D913E26089EAB00E345BD /* MyCustomView.swift in Sources */,
+				D35D912626089DDB00E345BD /* AppDelegate.swift in Sources */,
+				D35D912826089DDB00E345BD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D32D6F012603A1470040A792 /* Main.storyboard */ = {
+		D35D912B26089DDB00E345BD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D32D6F022603A1470040A792 /* Base */,
+				D35D912C26089DDB00E345BD /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D32D6F062603A14C0040A792 /* LaunchScreen.storyboard */ = {
+		D35D913026089DDE00E345BD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D32D6F072603A14C0040A792 /* Base */,
+				D35D913126089DDE00E345BD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -173,7 +173,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D32D6F0A2603A14C0040A792 /* Debug */ = {
+		D35D913426089DDE00E345BD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -234,7 +234,7 @@
 			};
 			name = Debug;
 		};
-		D32D6F0B2603A14C0040A792 /* Release */ = {
+		D35D913526089DDE00E345BD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -289,7 +289,7 @@
 			};
 			name = Release;
 		};
-		D32D6F0D2603A14C0040A792 /* Debug */ = {
+		D35D913726089DDE00E345BD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -307,7 +307,7 @@
 			};
 			name = Debug;
 		};
-		D32D6F0E2603A14C0040A792 /* Release */ = {
+		D35D913826089DDE00E345BD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -328,25 +328,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D32D6EF32603A1470040A792 /* Build configuration list for PBXProject "MyCustomViewProject" */ = {
+		D35D911D26089DDB00E345BD /* Build configuration list for PBXProject "MyCustomViewProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D32D6F0A2603A14C0040A792 /* Debug */,
-				D32D6F0B2603A14C0040A792 /* Release */,
+				D35D913426089DDE00E345BD /* Debug */,
+				D35D913526089DDE00E345BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D32D6F0C2603A14C0040A792 /* Build configuration list for PBXNativeTarget "MyCustomViewProject" */ = {
+		D35D913626089DDE00E345BD /* Build configuration list for PBXNativeTarget "MyCustomViewProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D32D6F0D2603A14C0040A792 /* Debug */,
-				D32D6F0E2603A14C0040A792 /* Release */,
+				D35D913726089DDE00E345BD /* Debug */,
+				D35D913826089DDE00E345BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D32D6EF02603A1470040A792 /* Project object */;
+	rootObject = D35D911A26089DDB00E345BD /* Project object */;
 }
