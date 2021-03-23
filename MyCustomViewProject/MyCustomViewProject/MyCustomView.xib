@@ -19,27 +19,27 @@
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
             <subviews>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="54y-eH-xsc">
-                    <rect key="frame" x="67" y="64" width="107" height="44"/>
+                    <rect key="frame" x="65" y="41" width="111" height="42"/>
                     <color key="backgroundColor" systemColor="secondarySystemGroupedBackgroundColor"/>
                     <constraints>
-                        <constraint firstAttribute="height" constant="44" id="GYG-S1-aqs"/>
-                        <constraint firstAttribute="width" constant="107" id="bZI-fk-Owu"/>
+                        <constraint firstAttribute="height" constant="42" id="WEi-Pe-OG9"/>
+                        <constraint firstAttribute="width" constant="111" id="l8v-Pj-qBx"/>
                     </constraints>
                     <fontDescription key="fontDescription" type="system" pointSize="25"/>
                     <color key="textColor" systemColor="systemPurpleColor"/>
                     <nil key="highlightedColor"/>
                 </label>
             </subviews>
-            <viewLayoutGuide key="safeArea" id="8CG-bV-ZJR"/>
+            <viewLayoutGuide key="safeArea" id="1ql-kV-lfK"/>
             <color key="backgroundColor" systemColor="systemYellowColor"/>
             <constraints>
-                <constraint firstItem="8CG-bV-ZJR" firstAttribute="bottom" secondItem="54y-eH-xsc" secondAttribute="bottom" constant="20" id="bxK-h3-tgg"/>
-                <constraint firstItem="8CG-bV-ZJR" firstAttribute="trailing" secondItem="54y-eH-xsc" secondAttribute="trailing" constant="66" id="cAN-0A-CEJ"/>
-                <constraint firstItem="54y-eH-xsc" firstAttribute="top" secondItem="8CG-bV-ZJR" secondAttribute="top" constant="20" id="cZk-fg-EFk"/>
-                <constraint firstItem="54y-eH-xsc" firstAttribute="leading" secondItem="8CG-bV-ZJR" secondAttribute="leading" constant="67" id="vzu-QO-fh2"/>
+                <constraint firstItem="54y-eH-xsc" firstAttribute="top" secondItem="k1O-y6-51E" secondAttribute="top" constant="41" id="RNg-GK-yK0"/>
+                <constraint firstItem="54y-eH-xsc" firstAttribute="leading" secondItem="k1O-y6-51E" secondAttribute="leading" constant="65" id="SfA-T4-hCR"/>
+                <constraint firstAttribute="bottom" secondItem="54y-eH-xsc" secondAttribute="bottom" constant="45" id="ZrS-Do-vWn"/>
+                <constraint firstAttribute="trailing" secondItem="54y-eH-xsc" secondAttribute="trailing" constant="64" id="uRc-5r-qgW"/>
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
-            <point key="canvasLocation" x="-120.28985507246378" y="32.8125"/>
+            <point key="canvasLocation" x="-117.39130434782609" y="20.758928571428569"/>
         </view>
     </objects>
     <resources>
